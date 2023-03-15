@@ -2,6 +2,6 @@
 
 h1{
   font-style: 24px;
-  padding-bottom: 8px;
-  border-bottom: 1px solid #ddd;
+  padding-left: 16px;
+  border-left: 8px solid pink;
 }
